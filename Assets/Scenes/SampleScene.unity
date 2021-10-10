@@ -238,6 +238,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LittleMaidVRC
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f0814a0ae0afba64c9160c29964a0ad6,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f0814a0ae0afba64c9160c29964a0ad6, type: 3}
 --- !u!1 &705507993
@@ -527,11 +532,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   launchedFromSDKPipeline: 0
-  completedSDKPipeline: 0
-  blueprintId: 
+  completedSDKPipeline: 1
+  blueprintId: avtr_325ef349-3820-49e6-86c9-555a3f055dac
   contentType: 0
   assetBundleUnityVersion: 
-  fallbackStatus: 1
+  fallbackStatus: 3
 --- !u!114 &1780788287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -555,7 +560,7 @@ MonoBehaviour:
   VisemeSkinnedMesh: {fileID: 0}
   MouthOpenBlendShapeName: Facial_Blends.Jaw_Down
   VisemeBlendShapes: []
-  unityVersion: 
+  unityVersion: 2019.4.30f1
   portraitCameraPositionOffset: {x: 0, y: 0, z: 0}
   portraitCameraRotationOffset: {x: 0, y: 1, z: 0, w: -0.00000004371139}
   customExpressions: 0
