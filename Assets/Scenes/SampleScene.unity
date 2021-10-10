@@ -579,7 +579,7 @@ MonoBehaviour:
   blueprintId: avtr_325ef349-3820-49e6-86c9-555a3f055dac
   contentType: 0
   assetBundleUnityVersion: 
-  fallbackStatus: 3
+  fallbackStatus: 1
 --- !u!114 &1780788287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -593,7 +593,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  ViewPosition: {x: 0, y: 1.6, z: 0.2}
+  ViewPosition: {x: 0, y: 1.035, z: 0.219}
   Animations: 0
   ScaleIPD: 1
   lipSync: 0
